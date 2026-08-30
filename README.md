@@ -6,7 +6,7 @@ The project focuses on **data analysis, statistical insights, visualization, and
 
 ## 🚀 Live Demo
 
-[Streamlit App]
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://food-delivery-analytics-1.streamlit.app/)
 
 ## 📊 Project Overview
 
